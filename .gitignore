@@ -1,0 +1,4 @@
+.vscode/
+backup/
+log/
+test/*.out.txt
